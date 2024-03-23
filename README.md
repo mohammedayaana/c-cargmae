@@ -1,7 +1,7 @@
 # Car Game
 
 ## Introduction
-Welcome to CCar, a simple C++ console-based car racing game! In this game, you'll control a car and race against computer-controlled opponents. 
+Welcome to Car, a simple C++ console-based car racing game! In this game, you'll control a car and race against computer-controlled opponents. 
 
 ## Features
 - Simple and intuitive gameplay.
